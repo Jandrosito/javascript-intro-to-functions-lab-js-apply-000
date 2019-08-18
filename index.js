@@ -1,5 +1,5 @@
 function shout(string) {
-  return string.toUpperCase()
+  return string.toUpperCase();
 }
 
 function whisper(string) {
@@ -12,12 +12,14 @@ function logShout(string) {
 }
 
 function logWhisper(string) {
-  const spy = "hello" 
-  console.log(spy)
+  const spy = "hello"; 
+  console.log(spy);
 }
 
 function sayHiToGrandma(string) {
 } if (string === "hello") {
-  return "I can't hear you"
+  return "I can't hear you!";
+  
 }
+
 }
