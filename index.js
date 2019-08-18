@@ -15,3 +15,7 @@ function logWhisper(string) {
   const spy = "hello" 
   console.log(spy)
 }
+
+function sayHiToGrandma(string) {
+  
+}
