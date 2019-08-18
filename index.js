@@ -3,15 +3,15 @@ function shout(string) {
 }
 
 function whisper(string) {
-  return string.toLowerCase()
+  return string.toLowerCase();
 }
 
 function logShout(string) {
-  var spy = "HELLO"
-  console.log(spy)
+  const spy = "HELLO";
+  console.log(spy);
 }
 
 function logWhisper(string) {
-  var spy + "hello"
+  const spy = "hello" 
   console.log(spy)
 }
