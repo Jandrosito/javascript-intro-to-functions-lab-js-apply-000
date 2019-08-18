@@ -10,7 +10,7 @@ function logShout(string) {
   const spy = "HELLO"
 }
 
-function logWhsiper(string) {
+function logWhisper(string) {
   var spy = "hello"
   console.log(spy)
   console.log.restore()
