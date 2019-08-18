@@ -8,8 +8,6 @@ function whisper(string) {
 
 function logShout(string) {
   const spy = "HELLO"
-  console.log(spy)
-  console.log.restore() 
 }
 
 function logWhsiper(string) {
