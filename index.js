@@ -11,3 +11,7 @@ function logShout(string) {
   console.log(spy)
 }
 
+function logWhisper(string) {
+  var spy + "hello"
+  console.log(spy)
+}
