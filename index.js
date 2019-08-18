@@ -11,4 +11,6 @@ function logShout(string) {
   console.log(spy)
 }
 
-function
+function logWhsiper(string) {
+  const 
+}
