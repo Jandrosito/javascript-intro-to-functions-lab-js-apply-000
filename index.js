@@ -15,4 +15,5 @@ function logShout(string) {
 function logWhsiper(string) {
   var spy = "hello"
   console.log(spy)
+  console.log.restore()
 }
